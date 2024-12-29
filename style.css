@@ -1,4 +1,4 @@
-# CSS (in style.css file)
+ CSS (in style.css file)
 
 body {
     font-family: Arial, sans-serif,Times New Roman;
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: SlateBlue;
+    background-color: Cyan;
     color: LightGray;
     padding: 20px;
     text-align: center;
@@ -43,7 +43,7 @@ main {
 }
 
 section {
-    background-color:blueviolet;
+    background-color:lavenderblush;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
