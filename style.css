@@ -1,20 +1,20 @@
 # CSS (in style.css file)
 
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: Arial, sans-serif,Times New Roman;
+    margin: auto;
+    padding: 10px;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: SlateBlue;
+    color: LightGray;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background-color: #444;
+    background-color: DeepPink;
     padding: 10px;
     text-align: center;
 }
@@ -31,7 +31,7 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color:darkcyan;
     text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ main {
 }
 
 section {
-    background-color: #f7f7f7;
+    background-color:blueviolet;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -54,7 +54,7 @@ h2 {
 }
 
 ul {
-    list-style: none;
+    list-style: serif;
     margin: 0;
     padding: 0;
 }
@@ -65,11 +65,11 @@ li {
 
 a {
     text-decoration: none;
-    color: #337ab7;
+    color: bisque;
 }
 
 a:hover {
-    color: #23527c;
+    color:Aliceblue;
 }
 
 
