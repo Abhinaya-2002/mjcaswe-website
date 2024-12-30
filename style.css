@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: Cyan;
+    background-color:stateblue;
     color: LightGray;
     padding: 20px;
     text-align: center;
@@ -43,7 +43,7 @@ main {
 }
 
 section {
-    background-color:lavenderblush;
+    background-color:white;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -69,7 +69,7 @@ a {
 }
 
 a:hover {
-    color:Aliceblue;
+    color:mediumseaggreen;
 }
 
 
