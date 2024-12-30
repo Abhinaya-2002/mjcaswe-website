@@ -1,4 +1,4 @@
- CSS (in style.css file)
+
 
 body {
     font-family: Arial, sans-serif,Times New Roman;
@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    background-color:stateblue;
+    background-color:blue;
     color: LightGray;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background-color: lightcoral;
+    background-color: brown;
     padding: 10px;
     text-align: center;
 }
